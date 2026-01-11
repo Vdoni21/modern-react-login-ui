@@ -1,18 +1,19 @@
-# React + Vite
+# Modern React Login UI 🦋
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A professionally designed React application featuring an immersive authentication flow and an interactive dashboard. This project bridges the gap between aesthetic animations and robust functionality.
 
-Currently, two official plugins are available:
+## ✨ Key Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **🎬 Cinematic Entry:** Custom "Butterfly" animated splash screen sequence upon successful login/signup.
+- **🔐 Robust Auth:** Secure Login and Signup forms powered by `react-hook-form` with real-time validation.
+- **🖼️ Interactive Home:** A "Sliding/Expanding Panels" hero section (inspired by modern web galleries).
+- **📱 Fully Responsive:** Optimized for mobile, tablet, and desktop devices using Tailwind CSS.
+- **⚡ Performance:** Lazy loading components and optimized state management.
 
-## React Compiler
+## 🛠️ Tech Stack
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
-
-Note: This will impact Vite dev & build performances.
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Frontend:** React.js (Vite)
+- **Styling:** Tailwind CSS & Custom CSS Animations
+- **Icons:** React Icons (`react-icons`)
+- **Forms:** React Hook Form
+- **Notifications:** React Toastify
